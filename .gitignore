@@ -1,0 +1,8 @@
+__pycache__/
+apicache/
+apicache-py3/
+*.lwp
+throttle.ctrl
+config.py
+user-config.py
+user-password.py
